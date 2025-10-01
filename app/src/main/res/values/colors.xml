@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_button_container_color">#009688</color>
+    <color name="custom_button_content_color">#DEDEDE</color>
+    <color name="custom_button_content_color_favourite">#FFC107</color>
+</resources>
